@@ -1,6 +1,6 @@
 # easysiem
 Easysiem link and md5
-https://drive.google.com/drive/folders/0B_lCWAspWCyONlZ2VFlZUEIwa28?usp=sharing
+
 #
 1. Boot From CD and install.
 2. Boot then run sudo /etc/setup-siem.sh and set static IP address.
